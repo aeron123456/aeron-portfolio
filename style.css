@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+    height: 100vh;
+    color: white;
+}
+.container {
+    width: 60%;
+    height: auto;
+    background-color: black;
+    margin: auto;
+    border: radius 100px;
+}
+.header {
+    width: 100%;
+    height: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+.header img {
+    width: 150px;
+    height: auto;
+    border-radius: 100px;
+}
+h3 {
+    text-align: center;
+}
